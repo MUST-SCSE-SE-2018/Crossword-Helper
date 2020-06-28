@@ -28,6 +28,12 @@
 + TestData : Used to generate a dictionary
 + Design Report : Detailed report
 ------
+### Download
++ [Release](https://github.com/KennardWang/CrosswordsHelper_GUI/releases)
+------
+### Tutorial
++ [Design Report](https://github.com/KennardWang/CrosswordsHelper_GUI/blob/master/Design%20Report.pdf)
+------
 ### License  
 + [MIT License](https://github.com/KennardWang/CrosswordsHelper_GUI/blob/master/LICENSE)
 ------
