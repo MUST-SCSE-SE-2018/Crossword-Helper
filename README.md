@@ -1,4 +1,4 @@
-# CrosswordsHelper_GUI
+# Crossword-Helper
 ### An interesting story
 
 > ![puzzle](https://kennardwang.github.io/ImageSource/Project/CrosswordsPuzzle.png)
