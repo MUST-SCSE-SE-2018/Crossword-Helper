@@ -9,9 +9,9 @@
 <br>
 
 <div align=center>
-  <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/CrosswordsPuzzle.png" height="400px" />
+  <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/CrosswordsPuzzle.png" height="250px" />
   &nbsp;
-  <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/CrosswordsDemo.png" height="400px%" />
+  <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/CrosswordsDemo.png" height="250px%" />
 </div>
 
 <br>
@@ -62,45 +62,45 @@ It is a project of MUST course ***LP104-Oriented Object Programming***, whose pu
   2. Run **TextSearch_GUI.exe**.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um1.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um1.png" width="60%" />
     </div>
   
   3. Import ***.txt*** or ***.csv*** file to generate a new dictionary. All file directories must be in English!
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um2.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um2.png" width="60%" />
     </div>
   
   4. After that, it will generate a **newDict.csv** file. For the next time, users can use this dictionary by importing directly.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um3.png" height="300px" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um3.png" height="250px" />
       &nbsp;
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um4.png" height="300px" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um4.png" height="250px" />
     </div>
   
   5. It can also be browsed by the **Open CSV Dict** function.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um5.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um5.png" width="60%" />
     </div>
   
   6. Please enter a query string in a fixed format for search. Patterns are separated by space, for each pattern, please use a character and an integer number to represent which character is in which position, and use a comma to split it. For example, if you want to find words like "XXuaXXX" ( "u" is the 3rd character, "a" is the 4th character, and "X" means unknown character ), you need to write "u,3 a,4" ( regardless of order between 2 patterns ) in the text field, and click the search button.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um6.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um6.png" width="60%" />
     </div>
   
   7. For the Top-N rank search, users can select to display the Top N results of all the searched words, and **Custom** means users can determine any number N by themselves.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um7.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um7.png" width="60%" />
     </div>
   
   8. Click **Exit** to end up the program.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um8.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um8.png" width="60%" />
     </div>
   
   9. The display window will be cleared if the query operation is incorrect. But do not worry, the content is still alive if importing the data file and not quitting the program. Please enter the query operation again and it will manifest.
@@ -109,38 +109,38 @@ It is a project of MUST course ***LP104-Oriented Object Programming***, whose pu
   1. Please put the test file ( **test.txt** and **dictionary.csv** ) into the folder **Console_Version**.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um9.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um9.png" width="60%" />
     </div>
   
   2. Open source code via IDE ( Recommend **Visual Studio 2017** ).
   3. Run it and enter the text file with the ***.txt*** suffix.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um10.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um10.png" width="60%" />
     </div>
   
   4. Enter **CSV** dictionary with ***.csv*** suffix, and please add two files ( 1 ***.txt*** and 1 ***.csv*** ) to continue.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um11.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um11.png" width="60%" />
     </div>
   
   5. Please input again if the directory is incorrect.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um12.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um12.png" width="60%" />
     </div>
   
   6. Please search words in fixed patterns. Use particular characters, position numbers, and a comma between them, and do not use space. If wanting to input more than one pattern, users can type **Y/y** to continue.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um13.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um13.png" width="60%" />
     </div>
   
   7. The result will be ordered by rank.
     <br>
     <div align=center>
-      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um14.png" width="70%" />
+      <img src="https://kennardwang.github.io/ImageSource/Crossword-Helper/um14.png" width="60%" />
     </div>
 
 
