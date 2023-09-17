@@ -9,9 +9,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Qt-v4.8.0-41CD52?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio-2017 Community-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
 
 <br>
