@@ -1,9 +1,17 @@
 # Crossword-Helper
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/KennardWang/Crossword-Helper" />
-  <img src="https://img.shields.io/github/license/KennardWang/Crossword-Helper" />
-  <img src="https://img.shields.io/badge/maintenance-No-red" />
+  <img src="https://img.shields.io/github/stars/KennardWang/Crossword-Helper?style=for-the-badge&color=FDEE21" />
+  &nbsp;
+  <img src="https://img.shields.io/github/forks/KennardWang/Crossword-Helper?style=for-the-badge&color=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Qt-v4.8.0-41CD52?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio-2017 Community-5C2D91?style=for-the-badge" />
 </div>
 
 <br>
@@ -244,13 +252,13 @@ It is a project of MUST course ***LP104-Oriented Object Programming***, whose pu
 
 ## Releases
 
-[The latest version](https://github.com/KennardWang/Crossword-Helper/releases/tag/v1.0).
+[![badge](https://img.shields.io/badge/release-v1.0-FF7800)](https://github.com/KennardWang/Crossword-Helper/releases/tag/v1.0)
 
 
 
 ## Maintainers
 
-[@KennardWang](https://github.com/KennardWang).
+![badge](https://img.shields.io/badge/maintenance-NO-EF2D5E) [@KennardWang](https://github.com/KennardWang)
 
 
 
@@ -262,4 +270,4 @@ Feel free to [open an issue](https://github.com/KennardWang/Crossword-Helper/iss
 
 ## License
 
-[MIT](LICENSE) © Kennard Wang. ( 2020.6.1 )
+[![license](https://img.shields.io/github/license/KennardWang/Girls-Frontline-Valhalla-Bartender)](LICENSE) © Kennard Wang ( 2020.6.1 )
