@@ -63,7 +63,7 @@ It is a project of MUST course ***LP104-Oriented Object Programming***, whose pu
 + Clone the repos:
 
   ```
-  git clone https://github.com/KennardWang/Crossword-Helper.git
+  git clone https://github.com/MUST-SCSE-SE-2018/Crossword-Helper.git
   ```
 
 
